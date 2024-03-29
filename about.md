@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I'm Drayff, a developer specializing in Java, Spigot API, and MySQL. Here's a bit about myself:
 
-### More Information
+### Skills
 
-A place to include any other types of information that you'd like to include about yourself.
+- Java: I have intermediate experience in Java.
+- Spigot API: I have several interesting projects on this API.
+- MySQL: I can write queries, create databases and tables.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Find me on [GitHub](https://github.com/Drayff), or write by [Email](mailto:andrew.motrych@gmail.com).
