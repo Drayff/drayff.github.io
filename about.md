@@ -14,4 +14,4 @@ Hello! I'm Drayff, a developer specializing in Java, Spigot API, and MySQL. Here
 
 ### Contact me
 
-Find me on [GitHub](https://github.com/Drayff), or write by [Email](mailto:andrew.motrych@gmail.com).
+Find me on [GitHub](https://github.com/Drayff), [Discord Server](https://discord.gg/J2xd86TVEe), [Telegram](https://t.me/TheDrayff/) , or write by [Email](mailto:andrew.motrych@gmail.com).
