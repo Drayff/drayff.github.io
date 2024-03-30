@@ -12,7 +12,7 @@ Hello! I'm Drayff, a developer specializing in Java, Spigot API, and MySQL. Here
 - Spigot API: I have several interesting projects on this API.
 - MySQL: I can write queries, create databases and tables.
 
-### 💻 System
+### System
 
 At the moment I am using Arch Linux as the main operating system, and Windows 10 for gaming.
 My computer specifications are as follows:
